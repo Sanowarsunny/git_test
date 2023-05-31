@@ -1,2 +1,2 @@
-# git_test
+# Project
 Hello Odin!
